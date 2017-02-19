@@ -1,0 +1,23 @@
+{
+  "version": "1.0.1",
+  "name": "react-native-show-hide-toggle-box",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvaclavik/react-native-show-hide-toggle-box"
+  },
+  "license": "MIT",
+  "main": "./ToggleBox.js",
+  "description": "React Native Toggle Box for showing/hiding content with sliding effect. Should looks like classical SlideToggle from jQuery.",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "toggle",
+    "display",
+    "visibility"
+  ],
+  "dependencies": {
+    "react-native-vector-icons": "^4.0.0"
+  }
+}
